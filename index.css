@@ -1,0 +1,27 @@
+.parent{
+    height:340;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 80px;
+    font-family: Impact;
+}
+p{
+    font-size: 35px;
+}
+button{
+        width: 250px;
+        height: 80px;
+        background-color: blue;
+        color: white;
+}
+button:hover{
+    background-color: green;
+}
+h2{
+    font-size: 30px;
+}
